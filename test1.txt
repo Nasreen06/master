@@ -1,3 +1,1 @@
 this is for checking revert command
-
-this is my second line
